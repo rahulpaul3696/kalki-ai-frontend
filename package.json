@@ -1,7 +1,9 @@
 {
-  "name": "Kortix",
-  "version": "0.1.0",
+  "name": "kalki-ai",
+  "version": "1.0.0",
   "private": true,
+  "author": "Rahul Paul",
+  "description": "Kalki AI 26 - AI Agent Platform Frontend",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
@@ -244,5 +246,13 @@
     "tailwindcss": "^4",
     "tw-animate-css": "^1.2.4",
     "typescript": "^5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahulpaul3696/kalki-ai-frontend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rahulpaul3696/kalki-ai-frontend/issues"
+  },
+  "homepage": "https://github.com/rahulpaul3696/kalki-ai-frontend"
 }
